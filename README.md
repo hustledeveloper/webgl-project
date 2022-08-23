@@ -1,7 +1,5 @@
-# Assignment1
+# Webgl projesi
 
-[Demo link](index.html)
+Dosyaları indirip tek bir klasör altında çalıştırabilirsiniz
 
 
-
-![alt text](assignment1.png "Assignment1")
